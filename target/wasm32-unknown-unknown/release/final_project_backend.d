@@ -1,0 +1,1 @@
+/Users/barbarosalagoz/Desktop/ICP_Vote_Template-main/target/wasm32-unknown-unknown/release/final_project_backend.wasm: /Users/barbarosalagoz/Desktop/ICP_Vote_Template-main/src/final_project_backend/src/lib.rs

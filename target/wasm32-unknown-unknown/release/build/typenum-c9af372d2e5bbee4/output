@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/barbarosalagoz/Desktop/ICP_Vote_Template-main/target/wasm32-unknown-unknown/release/build/typenum-c9af372d2e5bbee4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/barbarosalagoz/Desktop/ICP_Vote_Template-main/target/wasm32-unknown-unknown/release/build/typenum-c9af372d2e5bbee4/out/op.rs
